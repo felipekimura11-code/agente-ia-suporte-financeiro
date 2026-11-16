@@ -1,0 +1,25 @@
+id,texto,esperado_acao,esperado_procedimento
+1,Quero reembolso do plano que contratei ontem,responder,reembolso
+2,Me arrependi da compra e quero devolver o dinheiro,responder,reembolso
+3,Fui cobrado duas vezes pelo mesmo plano,responder,cobranca-duplicada
+4,Debitaram duas vezes na minha fatura este mês,responder,cobranca-duplicada
+5,Meu cartão recusado na hora de renovar,responder,cartao-recusado
+6,O pagamento recusado de novo e não sei por quê,responder,cartao-recusado
+7,Meu site caiu e diz que a conta suspensa,responder,plano-suspenso
+8,Como faço para reativar meu plano bloqueado?,responder,plano-suspenso
+9,Paguei o boleto ontem e ainda aparece em aberto,responder,boleto-nao-compensado
+10,Já mandei o comprovante e o boleto não compensou,responder,boleto-nao-compensado
+11,Preciso da nota fiscal do último pagamento,responder,nota-fiscal
+12,Onde pego a segunda via da nota com meu CNPJ?,responder,nota-fiscal
+13,Quero cancelar meu plano,responder,cancelamento
+14,Não quero mais o serviço como faço para encerrar conta,responder,cancelamento
+15,Meu cartão foi clonado e apareceu uma cobrança,escalar,
+16,Não reconheço essa cobrança no meu extrato,escalar,
+17,Vou abrir reclamação no Procon se não resolverem,escalar,
+18,Já contestei com o banco e fiz chargeback,escalar,
+19,Meu advogado vai entrar em contato,escalar,
+20,Qual o horário de funcionamento de vocês?,escalar,
+21,Como configuro meu e-mail no Outlook?,escalar,
+22,Meu número 5555 4444 3333 2222 foi cobrado duas vezes,responder,cobranca-duplicada
+23,Paguei o boleto mas quero cancelar e pedir reembolso,escalar,
+24,Isso é golpe? Recebi um boleto estranho,escalar,

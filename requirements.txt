@@ -1,0 +1,4 @@
+# Opcional: só necessário para o modo com LLM (ANTHROPIC_API_KEY definida)
+anthropic>=0.40
+# Testes
+pytest>=8
